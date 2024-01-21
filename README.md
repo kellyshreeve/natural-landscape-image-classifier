@@ -9,9 +9,9 @@ Code [Link](https://github.com/kellyshreeve/farm_vs_solar_img_classifier/blob/ma
 
 ## Train Results
 
-<img width="367" alt="Screenshot 2024-01-20 at 8 25 32 PM" src="https://github.com/kellyshreeve/farm_vs_solar_img_classifier/assets/109543606/a5d02675-d111-4983-8c73-9641fe606464">
-
 Model achieved 0% error and 100% accuracy on the validation set by the third epoch. 
+
+<img width="367" alt="Screenshot 2024-01-20 at 8 25 32 PM" src="https://github.com/kellyshreeve/farm_vs_solar_img_classifier/assets/109543606/a5d02675-d111-4983-8c73-9641fe606464">
 
 ## Test Images
 

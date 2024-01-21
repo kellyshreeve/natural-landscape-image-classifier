@@ -1,4 +1,4 @@
-# Farm vs Solar Image Classifier
+# Farm vs Solar Field Image Classifier
 Deep learning model that classifies images as farm or solar field
 
 

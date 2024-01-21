@@ -1,5 +1,5 @@
 # Farm vs Solar Field Image Classifier
-Deep learning model that classifies images as farm or solar field
+Deep learning nueral network model that classifies images as farm or solar field
 
 Code [Link](https://github.com/kellyshreeve/farm_vs_solar_img_classifier/blob/main/Farm_vs_Solar_Field_Image_Classifier.ipynb)
 

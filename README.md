@@ -1,7 +1,7 @@
-# Farm vs Solar Image Classifier
-Deep learning nueral network that correctly classifies images as farm or solar field.
+# Natural Landscape Image Classifier
+Deep learning nueral network that correctly classifies images as farm, solar field, neighborhood, or lake.
 
-Code [Link](https://github.com/kellyshreeve/farm-vs-solar-image-classifier/blob/main/Farm_vs_Solar_Field_Image_Classifier.ipynb)
+Code [Link](https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/Natural-Landscape-Image-Classifier.ipynb)
 
 ## Image Examples
 

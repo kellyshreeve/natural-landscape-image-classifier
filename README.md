@@ -5,11 +5,9 @@ Web App <a href='https://kellyshreeve-landscape-image-classifier.hf.space/' targ
 Neural Network Code [Link](https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/Natural-Landscape-Image-Classifier.ipynb)  
 Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-Image-Classifier)  
 
-<a href="http://example.com/" target="_blank">example</a>
-
 ## Image Examples
 
-<img width="852" alt="Screenshot 2024-01-20 at 8 23 51 PM" src="https://github.com/kellyshreeve/farm_vs_solar_img_classifier/assets/109543606/c5560880-9530-4e02-99f4-ad15d7d3b399">
+<img width="852" alt="Farm, solar, lake, and neighborhood examples" src="https://github.com/kellyshreeve/farm_vs_solar_img_classifier/assets/109543606/c5560880-9530-4e02-99f4-ad15d7d3b399">
 
 ## Train Results
 

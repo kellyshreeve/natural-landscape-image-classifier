@@ -7,7 +7,7 @@ Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-I
 
 ## Image Examples
 
-<img width="852" alt="Farm, solar, lake, and neighborhood examples" src="https://github.com/kellyshreeve/farm_vs_solar_img_classifier/assets/109543606/c5560880-9530-4e02-99f4-ad15d7d3b399">
+<img width="852" alt="Farm, solar, lake, and neighborhood examples" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/farm%2C%20solar%2C%20lake%2C%20neighborhood.png">
 
 ## Train Results
 

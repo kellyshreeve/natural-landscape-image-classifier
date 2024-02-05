@@ -7,7 +7,7 @@ Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-I
 
 ## Web App Screenshot
 
-<img width="367" alt="Image of web app" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/web-app-screenshot.png">
+<img width="1000" alt="Image of web app" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/web-app-screenshot.png">
 
 ## Image Examples
 

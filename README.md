@@ -1,9 +1,9 @@
 # Natural Landscape Image Classifier
 Deep learning nueral network that correctly classifies images as farm, solar field, neighborhood, or lake.
 
-Web App (<a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='blank'>Link</a>)
-Neural Network Code [Link](https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/Natural-Landscape-Image-Classifier.ipynb)
-Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-Image-Classifier)
+Web App <a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Link</a>  
+Neural Network Code [Link](https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/Natural-Landscape-Image-Classifier.ipynb)  
+Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-Image-Classifier)  
 
 <a href="http://example.com/" target="_blank">example</a>
 

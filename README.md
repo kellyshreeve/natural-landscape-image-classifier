@@ -19,10 +19,10 @@ Model achieved 3.9% error and 96.1% accuracy on the validation set by the eigth 
 
 Model correctly predicts solar field test image.
 
-<img width="298" alt="Aerial image of a solar field" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/solar.jpg">
+<img width="298" alt="Aerial image of a solar field" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/solar_prediction.png">
 
 
 Model correctly predicts farm field test image.
 
-<img width="287" alt="Aerial image of a farm field" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/farm.png">
+<img width="287" alt="Aerial image of a farm field" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/farm_prediction.png">
 

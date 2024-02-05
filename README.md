@@ -3,7 +3,11 @@ Deep learning, neural-network-driven web app that correctly classifies images as
 
 Web App <a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Link</a>  
 Neural Network Code [Link](kellyshreeve/farm-vs-solar-image-classifier/final-model/Natural-Landscape-Image-Classifier.ipynb)  
-Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-Image-Classifier)  
+Hugging Face Space [Link](https://huggingface.co/spaces/kellyshreeve/Landscape-Image-Classifier) 
+
+## Web App Screenshot
+
+<img width="367" alt="Image of web app" src="https://github.com/kellyshreeve/natural-landscape-image-classifier/blob/main/images/farm%2C%20solar%2C%20lake%2C%20neighborhood.png">
 
 ## Image Examples
 

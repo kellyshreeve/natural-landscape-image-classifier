@@ -1,5 +1,5 @@
-# Computer Vision Web App
-Deep learning, neural-network-driven web app that correctly classifies images as farm, solar field, neighborhood, or lake.
+# Computer Vision Natural Landscape Classifier 
+Deep learning, neural-network-driven web app that classifies images as farm, solar field, neighborhood, or lake.
 
 Web App <a href='https://kellyshreeve-landscape-image-classifier.hf.space/' target='_blank'>Link</a>  
 Neural Network Code [Link](kellyshreeve/farm-vs-solar-image-classifier/final-model/Natural-Landscape-Image-Classifier.ipynb)  
